@@ -38,7 +38,7 @@
 <table>
 <tr>
 <td>
-  This application was built as part of the Microsoft Leap Apprenticeship Program by a Team of 4 Software Engineers and a TPM, where they put together a console game for The Wheel of Fortune, which has contestants solve word puzzles to win cash prizes determined by spinning a giant carnival wheel. The rules of the game can be found at: <a href="https://en.wikipedia.org/wiki/Wheel_of_Fortune_(American_game_show)">https://en.wikipedia.org/wiki/Wheel_of_Fortune_(American_game_show)</a>
+  This application was built as part of the Microsoft Leap Apprenticeship Program by a Team of 4 Software Engineers and a Technical Program Manager, where they put together a console game for The Wheel of Fortune, which has contestants solve word puzzles to win cash prizes determined by spinning a giant carnival wheel. The rules of the game can be found at: <a href="https://en.wikipedia.org/wiki/Wheel_of_Fortune_(American_game_show)">https://en.wikipedia.org/wiki/Wheel_of_Fortune_(American_game_show)</a>
   
   
 </td>
